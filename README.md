@@ -6,7 +6,7 @@
 
 ## 💡 About Me  
 💻 Passionate about building responsive and visually appealing web applications  
-🛠 Skilled in **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and **React**  
+🛠 Skilled in **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **React** and **Python**  
 🎨 Focused on **UI/UX** to deliver engaging and user-friendly designs  
 ⚡ Love turning complex problems into simple, elegant solutions  
 📈 Continuously exploring modern frontend tools and frameworks  
