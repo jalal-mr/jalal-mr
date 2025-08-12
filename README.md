@@ -17,7 +17,7 @@
 ## 🌍 Connect with Me  
 [💼 LinkedIn](https://www.linkedin.com/in/jalalmr)  
 [🌐 Portfolio](https://jlmr-portfolio.netlify.app/) 
-[📧 **Email:**](jalalmoh117911@gmail.com)  
+
 
 ---
 
