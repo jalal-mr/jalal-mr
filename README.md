@@ -15,9 +15,9 @@
 ---
 
 ## 🌍 Connect with Me  
-[💼 LinkedIn](https://linkedin.com/)  
-[🌐 Portfolio](https://) 
-📧 **Email:** your.email@example.com  
+[💼 LinkedIn](https://www.linkedin.com/in/jalalmr)  
+[🌐 Portfolio](https://jlmr-portfolio.netlify.app/) 
+[📧 **Email:**](jalalmoh117911@gmail.com)  
 
 ---
 
